@@ -25,24 +25,14 @@ I'm still working on this README. Feel free to give any suggestion.
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+<br>
+<!--
+![Shetako's Stats](https://github-readme-stats.vercel.app/api?username=Shetako&theme=calm&show_icons=true&hide_border=true&count_private=true)<br>
+![Shetako's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shetako&theme=calm&hide_border=true)<br>
+![Shetako's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shetako&theme=calm&show_icons=true&hide_border=true&layout=compact)
+-->
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/Shetako" target="_blank"><img alt="Github"src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ferlima89/" target="_blank"><img alt="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<!--
-**Shetako/Shetako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
