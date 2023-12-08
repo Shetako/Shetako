@@ -54,8 +54,8 @@ I'm still working on this README. Feel free to give any suggestion.
 </p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shetako&theme=calm&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shetako&theme=calm&show_icons=true&hide_border=true&layout=compact" />  
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shetako&theme=calm&show_icons=true&hide_border=true&count_private=true" /> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shetako&theme=calm&show_icons=true&hide_border=true&layout=compact" />   -->
 <!--   ![Shetako's Stats](https://github-readme-stats.vercel.app/api?username=Shetako&theme=calm&show_icons=true&hide_border=true&count_private=true)<br> -->
 <!--   ![Shetako's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shetako&theme=calm&hide_border=true)<br> -->
 <!--   ![Shetako's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shetako&theme=calm&show_icons=true&hide_border=true&layout=compact) -->
