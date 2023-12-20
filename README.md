@@ -18,11 +18,11 @@ I'm still working on this README. Feel free to give any suggestion.
 
 <h4>Frameworks</h4>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> -->
+  <img alt="reactJs" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="expressJs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
-  <img alt="reactJs" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
 ##
@@ -67,4 +67,4 @@ I'm still working on this README. Feel free to give any suggestion.
   <a href="https://www.linkedin.com/in/ferlima89/" target="_blank"><img alt="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
-![Snake animation](https://github.com/Shetako/Shetako/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Shetako/Shetako/blob/output/github-contribution-grid-snake.svg) -->
